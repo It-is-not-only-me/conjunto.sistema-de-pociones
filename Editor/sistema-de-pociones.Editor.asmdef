@@ -1,7 +1,9 @@
 {
     "name": "sistema-de-pociones.Editor",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:c276eede0db2e1f4dae8a1755d903804"
+    ],
     "includePlatforms": [
         "Editor"
     ],
